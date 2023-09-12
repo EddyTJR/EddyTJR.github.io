@@ -1,0 +1,14 @@
+<DOCTYPE html>
+<head>
+  <title>My Figma thing>
+  <meta charset = "utf-8">
+</head>
+
+<body>
+
+<a href="index.html">Back to main page</a>
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FFlnpu3VZiRkn8G8tJr3K3D%2FEddyT%3Ftype%3Ddesign%26node-id%3D278-7%26t%3D72j3VJtyQNvySYpg-1%26scaling%3Dmin-zoom%26page-id%3D278%253A6%26starting-point-node-id%3D278%253A7%26mode%3Ddesign" allowfullscreen></iframe>
+
+</body>
+</html>
